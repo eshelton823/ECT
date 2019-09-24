@@ -7,4 +7,12 @@ def index(request):
 def about(request):
     return HttpResponse("Here's the about page!")
 
-# def
+def signup(request):
+    return HttpResponse("Here's the signup page!")
+
+def login(request):
+    return HttpResponse("Here's the login page!")
+
+def contactus(request):
+    return HttpResponse("Here's the contact us page!")
+
