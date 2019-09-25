@@ -7,7 +7,7 @@ def index(request):
 
 
 def about(request):
-    return HttpResponse("Here's the about page!")
+    return render(request, 'pcsite/about.html')
 
 def signup(request):
     return HttpResponse("Here's the signup page!")
