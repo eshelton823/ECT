@@ -10,11 +10,11 @@ def about(request):
     return render(request, 'pcsite/about.html')
 
 def signup(request):
-    return HttpResponse("Here's the signup page!")
+    return render(request, 'pcsite/signup.html')
 
 def login(request):
     return render(request, 'pcsite/login.html')
 
 def contactus(request):
-    return HttpResponse("Here's the contact us page!")
+    return render(request, 'pcsite/contactus.html')
 
