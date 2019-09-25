@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28ad827c-2aa7-4398-8139-1f2fe87e3728" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pcsite/templates/pcsite/login.html" afterPath="$PROJECT_DIR$/pcsite/templates/pcsite/login.html" />
-    </list>
+    <list default="true" id="28ad827c-2aa7-4398-8139-1f2fe87e3728" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
