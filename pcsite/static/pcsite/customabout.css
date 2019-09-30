@@ -1,21 +1,21 @@
 body {
-    background-image: url("../pcsite/images/planning2.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("../pcsite/images/table_wedding3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .navbar-brand {
   padding: 0px; /* firefox bug fix */
 }
 .navbar-brand>img {
   height: 100%;
-  padding: 15px; /* firefox bug fix */
+  padding: 1px; /* firefox bug fix */
   width: auto;
 }
 
 .navbar-brand .logo-image{
-width: 10px;
-height: 10px;
-border-radius: 50%;
+width: 100px;
+height: 100px;
+border-radius: 0%;
 overflow: hidden;
-margin-top: -6px;
+margin-top: 0px;
 }

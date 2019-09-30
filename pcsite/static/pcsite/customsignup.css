@@ -1,12 +1,5 @@
-body {
-    background-image: url("../pcsite/images/table_wedding3.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .navbar-brand {
-    padding: 0px; /* firefox bug fix */
-    color: black;
-     
+    padding: 0px; /* firefox bug fix */     
     
   }
   .navbar-brand>img {
@@ -16,7 +9,7 @@ body {
   }
 
 .navbar-brand .logo-image{
-width: 100px;
+width: 1000px;
 height: 100px;
 border-radius: 0%;
 overflow: hidden;
