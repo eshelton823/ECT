@@ -1,5 +1,5 @@
 body {
-    background: white url("images/table_wedding3.jpg");
+    background-image: url("../pcsite/images/table_wedding3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -12,9 +12,9 @@ body {
     width: auto;
   }
 
-.logo-image{
-width: 46px;
-height: 46px;
+.navbar-brand .logo-image{
+width: 200px;
+height: 50px;
 border-radius: 50%;
 overflow: hidden;
 margin-top: -6px;

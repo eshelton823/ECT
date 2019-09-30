@@ -1,13 +1,21 @@
 body {
-    background: white url("images/planning2.jpg");
+    background-image: url("../pcsite/images/planning2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .navbar-brand {
-    padding: 0px; /* firefox bug fix */
-  }
-  .navbar-brand>img {
-    height: 100%;
-    padding: 15px; /* firefox bug fix */
-    width: auto;
-  }
+  padding: 0px; /* firefox bug fix */
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+
+.navbar-brand .logo-image{
+width: 10px;
+height: 10px;
+border-radius: 50%;
+overflow: hidden;
+margin-top: -6px;
+}
