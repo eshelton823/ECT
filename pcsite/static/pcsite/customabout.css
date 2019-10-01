@@ -3,7 +3,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .navbar-brand {
   padding: 0px; /* firefox bug fix */     
   margin-right: 0px !important;
@@ -15,8 +14,8 @@ width: auto;
 }
 
 .navbar-brand .logo-image{
-width: 100px;
-height: 100px;
+width: 73px;
+height: 50px;
 border-radius: 0%;
 overflow: hidden;
 margin-top: 0px;
