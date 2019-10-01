@@ -24,3 +24,20 @@ body {
 .logo-wp {
   margin-right: 1rem;
 }
+
+.hbouquet{
+content: url("../pcsite/images/homebouquet.webp");
+width: 30%;
+height: 30%;
+float: left;
+margin-bottom: 45px;
+}
+
+.hwedding{
+content: url("../pcsite/images/homewedding.jpg");
+width: 45%;
+height: 45%;
+margin-left: auto;
+margin-bottom: 45px;
+float: right;
+}
