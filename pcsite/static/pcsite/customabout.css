@@ -24,3 +24,11 @@ margin-top: 0px;
 .logo-wp {
 margin-right: 1rem;
 }
+
+div.pic1 {
+content: url("../pcsite/images/three_musketeers.JPG");
+width: 412px;
+height: 310px;
+margin: 0 auto;
+
+}
