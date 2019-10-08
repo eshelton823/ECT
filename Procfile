@@ -1,1 +1,1 @@
-'web: gunicorn ectproject.wsgi --log-file -' 
+web: gunicorn ectproject.wsgi --log-file -
